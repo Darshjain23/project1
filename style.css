@@ -1,0 +1,27 @@
+/* body{
+    background-color: black;
+    color: white;
+} */
+
+/* .three{
+    color: blue;
+}
+
+.five{
+    color: yellow;
+*/
+
+.one,.two{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
